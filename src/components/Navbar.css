@@ -1,0 +1,11 @@
+
+ol{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:bisque;
+    padding:20px;
+    list-style-type: none;
+    color: brown;
+    font-style: oblique;
+    margin: 0px;
+}

@@ -1,0 +1,20 @@
+#footer1ul{
+    margin-top: 25%;
+    display:flex;
+    justify-content: space-evenly;
+    padding:20px;
+    list-style-type: none;
+    color: brown;
+    font-style: oblique;
+    
+}
+
+#footer2ul{
+    margin-top: 0.5%;
+    display:flex;
+    justify-content:space-evenly;
+    padding:20px;
+    list-style-type: none;
+    color: brown;
+    font-style:normal;
+}
