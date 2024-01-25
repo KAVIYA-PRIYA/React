@@ -1,12 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
-import ClassComponent from './components/ClassComponent';
-import FunctionalComponent from './components/FunctionalComponent';
+import PropsState from './components/PropsState';
 function App() {
   return (
-    <div className="App">
-        <ClassComponent/>
-        <FunctionalComponent/>
+    <div className="App">{
+    <PropsState name="kavya"/>}
     </div>
   );
 }
